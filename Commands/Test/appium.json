@@ -1,0 +1,10 @@
+{
+  "schemaVersion": "1.0.0",
+  "files": [ "pom.xml", "dependency-jars", "test-classes" ],
+  "applicationFile": "C:\\MobileCenter\\Test\\AppFile\\iOSSwift0706.ipa",
+  "testFile": "C:\\MobileCenter\\Test\\AppiumFile\\target\\upload",
+  "testFramework": {
+    "name": "appium",
+    "data": {}
+  }
+}
